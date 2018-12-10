@@ -8,3 +8,6 @@
 ====== ============================ ================================
 (01) 	clone URL
 (03)	commit + push
+(05)	commit
+(06)	branch develop
+(07)	checkout -b feature/Ticket220
