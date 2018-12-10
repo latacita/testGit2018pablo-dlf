@@ -35,3 +35,8 @@
 (30) 	push				Hacemos push de todas las ramas sin hacer push de la tag
 (31)	checkout feature/Ticket222
 (32)	merge develop			Estando en feature/Ticket222
+(32)	merge develop			Estando en feature/Ticket222
+(34)	commit
+(35)	merge feature/Ticket222		Estando en develop
+(36)	checkout master + merge develop
+
