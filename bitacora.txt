@@ -8,3 +8,9 @@
 ====== ============================ ================================
 (01) 	clone URL
 (03)	commit + push
+(09)	commit
+(10)	checkout develop 
+(11)	checkout -b feature/Ticket221
+(15)	commit
+(16)	checkout
+
