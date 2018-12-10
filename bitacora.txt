@@ -23,6 +23,9 @@
 (20)	branch feature/Ticket222
 (21)	checkout feature/Ticket220
 (22)					La fusión sería fast-forward
-
-
-
+(23)	commit	
+(24)	checkout develop
+(25)	merge feature/Ticket220		Estando en develop(merge de forma recursiva)
+(26)	merge feature/Ticket221		Estando en develop(merge de forma recursiva)
+	editar bitacora.txt		Tenemos conflictos en el merge.
+	add bitacora + commit
