@@ -12,4 +12,11 @@
 (06)	branch develop
 (07)	checkout -b feature/Ticket220
 (13)	stash + checkout
+(17)	apply stash
+(18)	commit
+(19)	checkout
+(20)	branch feature/Ticket222
+(21)	checkout feature/Ticket220
+(22)					La fusión sería fast-forward
+
 
