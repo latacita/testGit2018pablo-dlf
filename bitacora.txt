@@ -29,3 +29,9 @@
 (26)	merge feature/Ticket221		Estando en develop(merge de forma recursiva)
 	editar bitacora.txt		Tenemos conflictos en el merge.
 	add bitacora + commit
+(28)	commit 
+(29)	tag step 29			En source tree nos ponemos sobre el comit 
+					y seleccionamos tag
+(30) 	push				Hacemos push de todas las ramas sin hacer push de la tag
+(31)	checkout feature/Ticket222
+(32)	merge develop			Estando en feature/Ticket222
