@@ -11,3 +11,5 @@
 (05)	commit
 (06)	branch develop
 (07)	checkout -b feature/Ticket220
+(13)	stash + checkout
+
